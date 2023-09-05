@@ -1,31 +1,12 @@
-# React & Tailwind CSS Starter Pack
+# Study Notion
 
-This is a starter pack for creating React projects with Tailwind CSS configured. It uses React version **18.2** and Tailwind CSS version **3.2**.
+Study Notion is a versatile educational technology platform that empowers users to create, discover, and engage with educational content. Whether you're a learner seeking valuable resources or an educator looking to share your expertise, Study Notion provides a dynamic environment for knowledge sharing and collaboration.
 
-## Usage
+# Key Features:
 
-This starter pack includes a basic setup for using **Tailwind CSS with React**. To start building your own components and styles, follow these steps:
-
-1. Clone the repository to your local machine.
-    ```sh
-    git clone https://github.com/thepranaygupta/react-tailwind-css-starter-pack.git
-    ```
-
-1. Install the required packages.
-    ```sh
-    cd react-tailwind-css-starter-pack
-    npm install
-    ```
-
-1. Start the development server.
-    ```sh
-    npm start
-    ```
-1. Open the project in your browser at [`http://localhost:3000`](http://localhost:3000) to view your project.
-1. Create your React components and add your styles using Tailwind classes. You can also create new CSS files and import them into your components.
-
-The project is set up to use `postcss-cli` to process your CSS files. You can add your own `tailwind.config.js` file to customize your Tailwind setup.
-
-## Contributing
-
-Contributions are welcome! If you have any suggestions or find any issues, please feel free to open an issue or a pull request.
+Content Creation: Easily author educational materials, including articles, tutorials, quizzes, and interactive lessons.
+Content Discovery: Explore a rich repository of educational content created by a diverse community of educators and learners.
+Rating and Reviews: Rate and review content to help others find the best resources.
+User Profiles: Customize your profile to showcase your knowledge and contributions.
+Search and Explore: Efficiently find content by keywords, categories, and user ratings.
+Responsive Design: Access Study Notion on various devices for a seamless learning experience.
